@@ -23,9 +23,10 @@
     "grunt": "^1.0.1"
   },
   "peerDependencies": {
-    "grunt": "^1.0.1"
+    "grunt": ">=0.4.0"
   },
   "keywords": [
-    "gruntplugin"
+    "gruntplugin",
+    "JSON"
   ]
 }
